@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "template-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "10acdfe3-3bea-4bed-91a2-657e55353d69",
+      "database_name": "polished-voice-dd33-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
